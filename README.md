@@ -1,5 +1,6 @@
 # Police Flasher Circuit
 
-![boardview](images/board_front.png)
-![boardview](images/board_back.png)
-![boardview](images/schematic.png)
+<img src="images/board_front.png" width="300">
+<img src="images/board_back.png" width="300">
+<img src="images/schematic.png" width="300">
+
